@@ -1,0 +1,115 @@
+<html>
+
+<body>
+<div id="dp-wrapper" class="dp-wrapper adx">
+    <header class="dp-header  ">
+        <h2 class="dp-heading" style="background-color: #ffffff; color: #000000; border-left-color: #d5ccee;">Portfolio</h2>
+        <h3 class="dp-heading" style="color: #000000; background-color: #d5ccee;">About</h3>
+        <div class="adx-cue persona-question" style="background-color: #d5ccee; color: #000000;">
+            <div class="persona-image"><img class="persona" role="presentation" src="https://myuni.adelaide.edu.au/courses/86431/files/15885731/download" alt="" width="149" height="149" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15885731" data-api-returntype="File" /></div>
+            <div class="persona-content" style="color: black;">
+                <h4 class="dp-heading"><span style="color: #000000;">Dalestair Kidd</span></h4>
+                <table style="border-collapse: collapse; border-style: hidden;">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <p>I am learning systems, design and media professional with experience across a wide range of media systems and programs within the higher education sector. I have worked in Learning Enhancement and Innovation for the past 5 years and in that time, I have developed high level technical skills to support academics in developing course content and using learning platforms to their full potential.</p>
+                                <p>&nbsp;I am passionate about accessibility, content creation and user experience. I value my ability to develop innovative and student centric digital learning resources to enhance the student experience.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="dpCustomCss" data-external-style="/accordion_colour_override.css"></div>
+        <div class="dp-panels-wrapper dp-accordion-default dp-panel-active-color-dp-white dp-panel-hover-color-dp-white dp-panel-color-dp-primary">
+            <div class="dp-panel-group">
+                <h3 class="dp-panel-heading " style="background-color: #d5ccee; color: #ffffff;"><span style="color: #000000;">Graphics</span></h3>
+                <div class="dp-panel-content">
+                    <p><img src="https://myuni.adelaide.edu.au/courses/86431/files/13501915/download" alt="7. Think Pair Share-1.png" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/13501915" data-api-returntype="File" /></p>
+                    <p>"Tickets to Success" - graphic that highlighted the key aspects of a learning activity. Used to introduce content consistently across a resource.</p>
+                    <p>&nbsp;</p>
+                    <p><img src="https://myuni.adelaide.edu.au/courses/86431/files/15892182/preview" alt="Continuum of Online Delivery v2.png" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15892182" data-api-returntype="File" /></p>
+                    <p>Continuum of digital delivery. Designed for Course Examples, Course Development Essentials resource, Adelaide University.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/13501924/download" alt="WELLNESS WHEEL.png" width="542" height="542" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/13501924" data-api-returntype="File" /></p>
+                    <p>The Wellness Wheel - designed as a support tool for an activity to encourage users to identify weak points in their overall wellness.&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/13502092/download" alt="People.png" width="600" height="457" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/13502092" data-api-returntype="File" /></p>
+                    <p>This suite of people graphics was developed for use in course interactives. It was important to create diverse representations of different 'walks of life' among these assets. These graphics were based on an original commercial SVG file and adapted for the purpose utilsing further illustration and manipulation in order to achieve the desired outcome.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/15888653/download" alt="example of diverse characters.png" width="600" height="427" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15888653" data-api-returntype="File" /></p>
+                    <p>After creating the simple characters for diverse representation, I waas asked to create a similar suite of characters in a more realisitic style for the Department of Education x Univeristy of Adelaide micro credentials project. These characters were based off of some images origiannly found on Shutterstock and reworked to meet the required purpose.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/15891718/preview" alt="CM Module 1 - Hands-up routine.png" width="600" height="234" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15891718" data-api-returntype="File" /></p>
+                    <p>Classroom engagement routine image, designed to be used in a course for teachers and available as a print out for use in classrooms. Required detailed work to create the Australian style school uniform.</p>
+                    <p>&nbsp;</p>
+                    <table style="border-collapse: collapse; width: 98.9889%; border-style: hidden;" border="1">
+                        <tbody>
+                            <tr>
+                                <td style="width: 49.9489%; border-style: hidden;"><img style="float: right;" src="https://myuni.adelaide.edu.au/courses/86431/files/15891725/download" alt="MEDIA0116_Class discussion routine secondary years poster.png" width="230" height="325" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15891725" data-api-returntype="File" /></td>
+                                <td style="width: 49.9489%; border-style: hidden;"><img style="font-size: 1rem; color: var(--ic-brand-font-color-dark); float: left;" src="https://myuni.adelaide.edu.au/courses/86431/files/15891726/download" alt="MEDIA0116_Class discussion routines primary years poster.png" width="230" height="325" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15891726" data-api-returntype="File" /></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>Class discussion posters, designed to be used in a course for teachers and available as a print out for use in classrooms. Required detailed work to create the Australian style school uniform.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/15891732/preview" alt="MEDIA0070_Social Story 2.png" width="900" height="312" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15891732" data-api-returntype="File" /></p>
+                    <p>Designed as an example for use in a teaching course, this is an example of a "social story", a visual device used to help students understand how to respond to scenarios using visual mediums.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/13502299/download" alt="CCS_M3_1_with_text.png" width="600" height="341" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/13502299" data-api-returntype="File" /></p>
+                    <p>This graphic was designed to show a sequence of steps in testing cybersecurity.&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/13502305/download" alt="test.png" width="600" height="181" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/13502305" data-api-returntype="File" /></p>
+                    <p>This graphic is designed to show a linear sequence of steps.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/13502325/download" alt="DEAL model with text.png" width="600" height="338" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/13502325" data-api-returntype="File" /></p>
+                    <p>Graphic showing the DEAL model for a project management course, with a different visual styling.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/15891751/preview" alt="ISME_M4_0123_Principles of Effectuation Inforgraphic.png" width="600" height="338" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15891751" data-api-returntype="File" /></p>
+                    <p>Created for Open Universities Australia course, Internationalisation of Small to Medium-sized Enterprises.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/15891746/preview" alt="MEDIA0053.png" width="600" height="338" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15891746" data-api-returntype="File" /></p>
+                    <p>Blooms Taxonomy, designed for Department of Education micro credential.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/15891739/preview" alt="0003 - Constructive Journalism Umbrella.png" width="579" height="649" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15891739" data-api-returntype="File" /></p>
+                    <p>Constructive Journalism map, designed for the Constructive Journalism Toolkit.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/15888714/download" alt="C1M4Plan_pastel_.png" width="600" height="349" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15888714" data-api-returntype="File" /></p>
+                    <p>Recreation of an existing graphic to enhance image quality and accessibility. A PDF version was also available. Created for the World Health Organization.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/15888718/download" alt="C1M2Perc_v2.png" width="600" height="279" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15888718" data-api-returntype="File" /></p>
+                    <p>Factors of health graphic. Created for the World Health Organization.</p>
+                    <p>&nbsp;</p>
+                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://myuni.adelaide.edu.au/courses/86431/files/15891701/preview" alt="C1M4HiAP_v2.png" width="600" height="225" data-api-endpoint="https://myuni.adelaide.edu.au/api/v1/courses/86431/files/15891701" data-api-returntype="File" /></p>
+                    <p>Timeline of health policies. A PDF version was also available for accessibility. Created for the World Health Organization.</p>
+                </div>
+            </div>
+            <div class="dp-panel-group">
+                <h3 class="dp-panel-heading " style="background-color: #d5ccee; color: #ffffff;"><span style="color: #000000;">Interactives</span></h3>
+                <div class="dp-panel-content">
+                    <div class="dp-embed-wrapper" style="font-size: 1rem; color: var(--ic-brand-font-color-dark); text-align: center;"><iframe class="lti-embed" style="width: 779px; height: 600px;" title="Timeline of Building a Business" src="https://myuni.adelaide.edu.au/courses/86431/external_tools/retrieve?display=borderless&amp;url=https%3A%2F%2Fadelaide.h5p.com%2Fcontent%2F1292024647718968509" width="779" height="600" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *" data-mce-fragment="1"></iframe></div>
+                    <div class="dp-embed-wrapper" style="font-size: 1rem; color: var(--ic-brand-font-color-dark); text-align: center;"><iframe class="lti-embed" style="width: 779px; height: 600px;" title="Team Formations" src="https://myuni.adelaide.edu.au/courses/86431/external_tools/retrieve?display=borderless&amp;url=https%3A%2F%2Fadelaide.h5p.com%2Fcontent%2F1292024648960341669" width="779" height="600" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *" data-mce-fragment="1"></iframe></div>
+                    <div class="dp-embed-wrapper" style="text-align: center;"><iframe class="lti-embed" style="width: 779px; height: 600px;" title="Gummy Bear Flavour Memory Game" src="https://myuni.adelaide.edu.au/courses/86431/external_tools/retrieve?display=borderless&amp;url=https%3A%2F%2Fadelaide.h5p.com%2Fcontent%2F1292024715493380599" width="779" height="600" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *" data-mce-fragment="1"></iframe></div>
+                    <p style="text-align: left;">This interactive was created for Haide College course "Sensory Evaluation of Food". Due to the restrictions for content delivery due to the Chinese firewall, this course required some creativity to make engaging activities beyond text on a page. I created this interactive to include some gamification of content.</p>
+                </div>
+            </div>
+            <div class="dp-panel-group">
+                <h3 class="dp-panel-heading " style="background-color: #d5ccee; color: #ffffff;"><span style="color: #000000;">Animations</span></h3>
+                <div class="dp-panel-content">
+                    <div class="dp-embed-wrapper" style="text-align: center;"><iframe style="width: 400px; height: 225px; display: inline-block;" title="Video player for Streams Return.mp4" data-media-type="video" src="https://myuni.adelaide.edu.au/media_attachments_iframe/15888683?type=video&amp;embedded=true" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-369gH3atijCPLujgZq4Fkb8c1BPjuWEH" data-mce-fragment="1"></iframe></div>
+                    <p style="text-align: left;">Animation created for my Twitch channel trailer announcing my return to streaming after a break.</p>
+                    <div class="dp-embed-wrapper" style="text-align: center;"><iframe style="width: 225px; height: 400px; display: inline-block;" title="Video player for Kuromi.mp4" data-media-type="video" src="https://myuni.adelaide.edu.au/media_attachments_iframe/15888685?type=video&amp;embedded=true" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-36nm7AjU4veUP8QscgNEexg2bTsY3Au7" data-mce-fragment="1"></iframe></div>
+                    <div class="dp-embed-wrapper" style="text-align: center;"><iframe style="width: 225px; height: 400px; display: inline-block;" title="Video player for orange tutorial - animation version_1.mp4" data-media-type="video" src="https://myuni.adelaide.edu.au/media_attachments_iframe/15888684?type=video&amp;embedded=true" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-35XX3QbmgPATGFwFLNRzVwZe4BrwwEvn" data-mce-fragment="1"></iframe></div>
+                    <p style="text-align: left;">Animations that were created for practice.</p>
+                    <p style="text-align: left;">&nbsp;</p>
+                    <div class="dp-embed-wrapper" style="text-align: center;"><iframe style="width: 400px; height: 225px; display: inline-block;" title="Video player for Vtuber exm.mp4" data-media-type="video" src="https://myuni.adelaide.edu.au/media_attachments_iframe/15900402?type=video&amp;embedded=true" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-2EahUgXJA7KrC2FQADEvuExwPyMndpNX"></iframe></div>
+                    <p style="text-align: left;">VTuber, based on my look. Modelled and animated in VRoid Studio. Recorded using Streamlabs OBS, OpenLive3D.&nbsp;</p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <p>&nbsp;</p>
+</div>
+</body>
+</html>
